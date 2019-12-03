@@ -1,0 +1,5 @@
+math 3 8
+rockphysics 3 15
+geostuff 3 5
+mcbride 3 8
+compsci 3 10
